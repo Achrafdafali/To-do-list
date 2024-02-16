@@ -1,2 +1,5 @@
 # To-do-list
-To do list app using html css javascript
+In this repo i'm gonna show you to do list web app using this three technologies
+## Html
+## Css
+##JavaScript
